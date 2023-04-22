@@ -4,9 +4,9 @@ Original source: https://github.com/jackdawkins11/pytorch-alpha-zero
 
 Tried out reinforcement learning, but it was too expensive + too slow.
 
-[My medium article explaining the code](https://medium.com/@hengbin/training-budget-alphazero-to-play-chess-with-an-8-month-gpu-in-pytorch-d8e3d2556c16)
+[My article explaining the code](https://medium.com/@hengbin/training-budget-alphazero-to-play-chess-with-an-8-month-gpu-in-pytorch-d8e3d2556c16)
 
-[Me 1v1'ing my bot:
+[Me 1v1'ing my bot
 ](https://youtu.be/x_HAgjdtlIE)
 
 <h1>Training your own chess bot</h1>	
